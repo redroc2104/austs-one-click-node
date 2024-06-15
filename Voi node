@@ -1,0 +1,1 @@
+/bin/bash -c "$(curl -fsSL https://get.voi.network/swarm)"
